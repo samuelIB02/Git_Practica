@@ -1,11 +1,11 @@
-def saludar(nombre):
-    return f"¡Bienvenido, {nombre}!"
+def greet(name):
+    return f"Welcome, {name}!"
 
-print("Hola GitHub")
+print("Hi, Github")
 
-nombre = input("¿Cómo te llamas?")
-print(saludar(nombre))
+name = input("What's your name?")
+print(greet(name))
 
-print("Estoy aprendiendo Git y GitHub con Cursor.")
+print("I'm learning Git and Github with Cursor.")
 
-print("Este cambio lo he realizado desde GitHub.")
+print("This change has been made from Github.")
