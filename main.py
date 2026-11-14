@@ -1,3 +1,5 @@
+print("Welcome from the main branch!")
+
 def greet(name):
     return f"Welcome, {name}!"
 
