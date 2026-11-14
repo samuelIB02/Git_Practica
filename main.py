@@ -1,4 +1,4 @@
-print("Welcome from the main branch!")
+print("Welcome to my Git practice project!")
 
 def greet(name):
     return f"Welcome, {name}!"
