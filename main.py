@@ -1,3 +1,5 @@
+print("Welcome from the feature branch!")
+
 def saludar(nombre):
     return f"¡Bienvenido, {nombre}!"
 
